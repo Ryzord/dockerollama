@@ -6,3 +6,4 @@ import './user/app'
 
 // Only for development purposes
 import './util/app'
+import './ollama/app'
